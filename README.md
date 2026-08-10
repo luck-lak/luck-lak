@@ -49,7 +49,7 @@ I'm currently organizing and improving some of my previous work, and I'll gradua
 
 I'm also building my own portfolio website:
 
-[My Portfolio Website](https://luck-aok.github.io/)
+[My Portfolio Website](https://luck-lak.github.io/)
 
 ## ⚡ A Little More About Me
 
