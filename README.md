@@ -41,7 +41,8 @@ Currently, I'm exploring different areas of computer science through coursework,
 
 ## 📌 Projects
 
-More projects are coming soon.
+- [Synera: Synergy Auto Arena](https://github.com/luck-lak/Synera--Synergy-Auto-Arena) — A playable auto-battler built as a course project.
+- [Gomoku Minimax AI](https://github.com/luck-lak/gomoku-minimax-ai) — A Gomoku search agent using Minimax, Alpha–Beta pruning, and pattern-based evaluation. 
 
 I'm currently organizing and improving some of my previous work, and I'll gradually add the projects I find interesting here.
 
